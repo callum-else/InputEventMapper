@@ -1,0 +1,14 @@
+{
+  "name": "com.geppy.inputeventmapper",
+  "version": "0.0.1",
+  "displayName": "Input Event Mapper",
+  "description": "Input Event Mapper is a tool for mapping user input events to in-game actions through code.",
+  "unity": "2021.3",
+  "unityRelease": "16f1",
+  "documentationUrl": "https://github.com/callum-else/InputEventMapper/blob/main/README.md",
+  "changelogUrl": "https://github.com/callum-else/InputEventMapper/commits/main",
+  "licensesUrl": "https://github.com/callum-else/InputEventMapper/blob/main/LICENSE",
+  "author": {
+    "name": "Callum Else"
+  }
+}
